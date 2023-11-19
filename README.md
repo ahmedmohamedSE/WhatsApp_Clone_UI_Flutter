@@ -1,4 +1,4 @@
-# flutter_application_2
+# WhatsApp_Clone_UI_Flutter
 
 A new Flutter project.
 
